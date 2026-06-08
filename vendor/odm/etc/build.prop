@@ -1,0 +1,29 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=alps
+ro.product.odm.device=BraX3
+ro.product.odm.manufacturer=alps
+ro.product.odm.model=k6835v1_64
+ro.product.odm.name=vext_k6835v1_64
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=
+ro.odm.build.date.utc=
+ro.odm.build.fingerprint=alps/vext_k6835v1_64/k6835v1_64:14/UP1A.231005.007/:userdebug/release-keys
+ro.odm.build.id=TP1A.220624.014
+ro.odm.build.tags=release-keys
+ro.odm.build.type=userdebug
+ro.odm.build.version.incremental=
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file
