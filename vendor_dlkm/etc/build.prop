@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=alps
+ro.product.vendor_dlkm.device=BraX3
+ro.product.vendor_dlkm.manufacturer=alps
+ro.product.vendor_dlkm.model=k6835v1_64
+ro.product.vendor_dlkm.name=vext_k6835v1_64
+ro.vendor_dlkm.build.date=
+ro.vendor_dlkm.build.date.utc=
+ro.vendor_dlkm.build.fingerprint=alps/vext_k6835v1_64/k6835v1_64:14/UP1A.231005.007/:userdebug/release-keys
+ro.vendor_dlkm.build.id=TP1A.220624.014
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=userdebug
+ro.vendor_dlkm.build.version.incremental=
+ro.vendor_dlkm.build.version.release=13
+ro.vendor_dlkm.build.version.release_or_codename=13
+ro.vendor_dlkm.build.version.sdk=33
+# end of file

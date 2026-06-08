@@ -1,0 +1,14 @@
+# sys_mssi_64_ww_armv82-userdebug 14 UP1A.231005.007  release-keys
+- manufacturer: alps
+- platform: common
+- codename: BraX3
+- flavor: sys_mssi_64_ww_armv82-userdebug
+- release: 14
+- id: UP1A.231005.007
+- incremental: p1rck6989v164P14
+- tags: release-keys
+- fingerprint: alps/hal_mgvi_64_ww_armv82/mgvi_64_ww_armv82:14/UP1A.231005.007/:userdebug/release-keys
+- is_ab: true
+- brand: alps
+- branch: sys_mssi_64_ww_armv82-userdebug-14-UP1A.231005.007--release-keys
+- repo: alps_brax3_dump
