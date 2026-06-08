@@ -1,0 +1,9 @@
+<config>
+    <!--  MicroG disable optimizations   -->
+    <allow-in-power-save package="com.google.android.gms" />
+    <allow-in-data-usage-save package="com.google.android.gms" />
+    <allow-in-power-save package="com.google.android.gsf" />
+    <allow-in-data-usage-save package="com.google.android.gsf" />
+    <allow-in-power-save package="com.android.vending" />
+    <allow-in-data-usage-save package="com.android.vending" />
+</config>
